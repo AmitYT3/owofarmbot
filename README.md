@@ -44,6 +44,7 @@ Do you need help? <a href ="https://discord.gg/WzYXVbXt6C">Join Discord Server</
 -   We would like to point out that long-term use of farm bots may result in a ban from owo and we do not accept responsibility.
 -   Discord may restart as a result of discord rpc overload.
 -   It can detect virus due to captcha(ban) bypasser please turn off your antivirus.
+-   DO NOT USE ONE CHANNEL FOR TWO ACCOUNTS, USE IT FOR 1 ACCOUNT ONLY
 
 ## 👑・Features
 
